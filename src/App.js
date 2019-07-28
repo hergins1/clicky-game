@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
-import Container from ".components/Container";
-import Header from ".components/Header";
-import './App.css';
-import TeamCard from ".components/TeamCard";
-import teams from "./data.json"
+import Container from "./components/Container";
+import Header from "./components/Header";
+import './App.css'; 
+import TeamCard from "./components/TeamCard";
+import teams from "./team.json"
 
 class App extends Component {
   state = {
@@ -24,10 +24,10 @@ class App extends Component {
     this.setState({ score: 0 })
   }
 
-  isClicked = id => {
+  itemClick = id => {
     const teamChosen = this.state.teams.filter(team => team.id === id);
-    if (!teamChosen[0].chosen){
-      teamChosen[0].chosen = true;
+    if (!teamChosen[0].isClicked){
+      teamChosen[0].isClicked = true;
       this.setState({
         score: this.state.score + 1
       }, function (){

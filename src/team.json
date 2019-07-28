@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "image": "https://s3media.247sports.com/Uploads/Assets/807/647/4647807.png",
+      "name": "Chiefs",
+      "isClicked": false
+    },
+    {
+      "id": 2,
+      "image": "https://cdn.bleacherreport.net/images/team_logos/328x328/new_england_patriots.png",
+      "name": "Patriots",
+      "isClicked": false
+    },
+    {
+      "id": 3,
+      "image": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+      "name": "Texans",
+      "isClicked": false
+    },
+    {
+      "id": 4,
+      "image": "https://pbs.twimg.com/profile_images/1094312145255260160/bCyz5weo.jpg",
+      "name": "Rams",
+      "isClicked": false
+    },
+    {
+      "id": 5,
+      "image": "http://content.sportslogos.net/logos/7/155/full/5330_cleveland_browns-primary_on_dark-2015.png",
+      "name": "Browns",
+      "isClicked": false
+    },
+    {
+      "id": 6,
+      "image": "https://static.nfl.com/static/content/public/static/wildcat/assets/img/logos/teams/PIT.svg",
+      "name": "Steelers",
+      "isClicked": false
+    },
+    {
+      "id": 7,
+      "image": "https://cdn.bleacherreport.net/images/team_logos/328x328/new_orleans_saints.png",
+      "name": "Saints",
+      "isClicked": false
+    },
+    {
+      "id": 8,
+      "image": "https://cdn.bleacherreport.net/images/team_logos/328x328/detroit_lions.png",
+      "name": "Lions",
+      "isClicked": false
+    },
+    {
+      "id": 9,
+      "image": "https://static.nfl.com/static/content/public/static/wildcat/assets/img/logos/teams/PHI.svg",
+      "name": "Eagles",
+      "isClicked": false
+    },
+    {
+      "id": 10,
+      "image": "https://teamwork-online-production.s3.amazonaws.com/uploads/55662557-07eb-4235-a76a-23aec4590c2a.png",
+      "name": "Jaguars",
+      "isClicked": false
+    },
+    {
+      "id": 11,
+      "image": "https://cdn.bleacherreport.net/images/team_logos/328x328/miami_dolphins.png",
+      "name": "Dolphins",
+      "isClicked": false
+    },
+    {
+      "id": 12,
+      "image": "https://pbs.twimg.com/profile_images/1130850267321122818/LtxXWnTm.png",
+      "name": "Giants",
+      "isClicked": false
+    }    
+  ]
+  
